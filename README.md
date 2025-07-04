@@ -8,6 +8,7 @@ Welcome to the **Library API Testing Project**, a robust and modular RESTful API
 
 - ✨ [Introduction](#introduction)
 - 🚀 [Features](#features)
+- 🔧 Backend Setup (JSON Server)
 - ⚙️ [Installation & Setup](#installation--setup)
 - 🧪 [Usage & Running Tests](#usage--running-tests)
 - 🖼️ [Test Reports](#test-reports)
@@ -21,6 +22,12 @@ Welcome to the **Library API Testing Project**, a robust and modular RESTful API
 The **Library API** enables managing a full book rental service through RESTful endpoints. It supports creating, retrieving, updating, and deleting entities such as books, users, households, and wishlists.
 
 This project automates the validation of all API endpoints using Postman and Newman, ensuring reliable CI/CD integrations and efficient regression testing.
+
+---
+
+## 🔧 Backend Setup (JSON Server)
+
+This project uses [JSON Server](https://github.com/typicode/json-server) to mock the backend API.
 
 ---
 
