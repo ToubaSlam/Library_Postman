@@ -30,6 +30,13 @@ Take a look at a local execution demo below!
 
 ---
 
+## 🎬 Examples of Run
+
+Take a look at a local execution demo below!  
+![Local Testing Execution Example](Rec.gif)
+
+---
+
 ## 🚀 Features
 
 ✅ Create new bookings with details like name, price, dates, and additional needs  
