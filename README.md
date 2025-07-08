@@ -1,8 +1,8 @@
-# 🌐 Restful Booker
+# 🌐 Library Software
 
 ![Restful Booker Logo](images.png)
 
-Welcome to **Restful Booker**, a lightweight, powerful booking application that provides various RESTful services. This repository contains the full source code, setup instructions, and usage guide for your convenience.
+Welcome to **Library Software**, a lightweight, powerful booking application that provides various RESTful services. This repository contains the full source code, setup instructions, and usage guide for your convenience.
 
 ---
 
